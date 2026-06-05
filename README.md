@@ -5,6 +5,9 @@ Análisis exploratorio de una base de datos de ventas usando SQL puro.
 El objetivo es responder preguntas de negocio concretas sobre productos,
 clientes, empleados y tendencias temporales.
 
+## Dataset
+Northwind Database (SQLite version) — disponible en [jpwhite4/northwind-SQLite](https://github.com/jpwhite4/northwind-SQLite3)
+
 ## Herramientas
 - SQLite / DB Browser
 - VS Code
